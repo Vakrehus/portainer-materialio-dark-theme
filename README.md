@@ -8,7 +8,7 @@ Portainer doesn't (not now) support custom css, so we have to take help from a f
 
 ## CSS Installation
 
- * Copy & Paste the content of [material.css](https://github.com/Vakrehus/portainer-materialio-dark-theme/blob/master/material.css) to [Stylus](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne?hl=en-US) an enable it.
+ * Copy & Paste the content of [material.css](https://github.com/Vakrehus/portainer-materialio-dark-theme/blob/master/material.css) to [Stylus](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne?hl=en-US) and enable it.
 
  * Set "Urls starting with": http://192.168.1.100:9000 (LAN IP:PORT of your portainer instance.)
 
